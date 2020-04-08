@@ -71,6 +71,10 @@ h6 {
   background-color: #17a2b8 !important;
 }
 
+.content {
+  background-color: #17a2b8 !important;
+}
+
 .content:hover {
   color: white !important;
   background-color: #f17575 !important;
