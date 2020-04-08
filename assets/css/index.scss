@@ -1,3 +1,6 @@
+html, body {
+    background-color: #e9ecef !important;
+}
 header{
     color: white;
     background-color: #e9ecef;
@@ -33,16 +36,16 @@ h6{
 }
 
 #qDisplay {
-    color: #1770b8;
+    color: white;
+    background-color: #17a2b8;
     font-weight: bolder;;
     font-size: 50px;
     font-style: italic;
     font-family: monospace, Arial, Helvetica, sans-serif, cursive,;
-    background-color: #ffffff;
 }
 #qDisplay:hover{
-    color: white !important;
-    background-color: #17a2b8 !important;
+    color: white;
+    background-color: #f17575;
 }
 
 #operand{
@@ -59,5 +62,5 @@ h6{
 }
 .content:hover {
     color: white !important;
-    background-color: #17a2b8 !important;
+    background-color: #f17575 !important;
 }
